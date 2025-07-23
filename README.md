@@ -41,3 +41,14 @@ The platform includes no backend or user management. Everything from navigation 
 In conclusion, this E-Learning Platform project demonstrates the complete front-end development process for a multi-page educational site. It covers static content presentation, basic interactivity using JavaScript, dynamic content rendering via URL parameters, user input handling, and consistent design across pages. 
 
 It does not include any database, server-side scripting, or authentication. However, it lays a solid foundation for future enhancements such as quizzes, certificates, dashboards, or backend integration. It effectively showcases a complete front-end implementation of an educational user interface using only HTML, CSS, and JavaScript.
+
+Output Screenshots:
+
+<img width="1083" height="728" alt="Image" src="https://github.com/user-attachments/assets/5f523430-f4b9-4afc-b72a-4ce09c11a812" />
+<img width="1892" height="904" alt="Image" src="https://github.com/user-attachments/assets/4e33e5cc-63d4-41e9-a7a3-38e4173454ed" />
+<img width="1883" height="892" alt="Image" src="https://github.com/user-attachments/assets/86e1389e-0c2c-4369-996b-f2e153db2402" />
+<img width="1882" height="883" alt="Image" src="https://github.com/user-attachments/assets/94ad73e3-06ac-4a1f-b430-7c2c6855f66e" />
+<img width="1883" height="872" alt="Image" src="https://github.com/user-attachments/assets/1d8eb8ed-9bd9-481b-872d-d0884006e8da" />
+<img width="1883" height="889" alt="Image" src="https://github.com/user-attachments/assets/22ce0b1a-ecf9-42d3-bf8a-6219285ff740" />
+<img width="1734" height="900" alt="Image" src="https://github.com/user-attachments/assets/f607508a-64da-4e58-9887-c818964a0e80" />
+<img width="1903" height="882" alt="Image" src="https://github.com/user-attachments/assets/ac7a07b6-43ba-4af8-bd3d-c1b9ff2f00f7" />
