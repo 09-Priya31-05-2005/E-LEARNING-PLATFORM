@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home | E-Learning Platform</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f9f9f9; }
+    header, footer { background: #0077cc; color: white; text-align: center; padding: 1em; }
+    nav a { margin: 0 1em; color: white; text-decoration: none; }
+    .container { padding: 2em; }
+    .course-card {
+      background: white;
+      margin-bottom: 1.5em;
+      padding: 1em;
+      border-left: 6px solid #0077cc;
+      border-radius: 6px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .btn { background: #0077cc; color: white; padding: 0.5em 1em; border: none; border-radius: 4px; text-decoration: none; }
+    .intro { background: #e0f0ff; padding: 1em; margin-bottom: 2em; border-radius: 6px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>E-Learning Platform</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="progress.html">My Progress</a>
+      <a href="video.html">Course Video</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <div class="intro">
+      <h2>Welcome to Your Learning Journey!</h2>
+      <p>Our platform offers interactive video lessons, real-time progress tracking, and hands-on projects to boost your skills.</p>
+    </div>
+
+    <h2>Explore Courses</h2>
+
+    <div class="course-card">
+      <h3>💻 Web Development Bootcamp</h3>
+      <p>Master HTML, CSS, JavaScript, and responsive web design. Includes project building and deployment steps.</p>
+      <ul>
+        <li>Duration: 12 hours</li>
+        <li>Level: Beginner to Intermediate</li>
+        <li>Certificate: Yes</li>
+      </ul>
+      <a class="btn" href="video.html?course=webdev">Start Web Dev</a>
+    </div>
+
+    <div class="course-card">
+      <h3>Python Programming Essentials</h3>
+      <p>Understand Python from scratch: syntax, data types, functions, OOP, and more with hands-on exercises.</p>
+      <ul>
+        <li>Duration: 10 hours</li>
+        <li>Level: Beginner</li>
+        <li>Certificate: Yes</li>
+      </ul>
+      <a class="btn" href="video.html?course=python">Start Python</a>
+    </div>
+
+  </div>
+
+  <footer>
+    &copy; 2025 E-Learning Platform. All rights reserved.
+  </footer>
+</body>
+</html>
